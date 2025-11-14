@@ -1,6 +1,6 @@
 # SerperAPI
 
-# Example Code Link
+# [Example Code Link](https://github.com/Monnapse/SerperAPI/blob/main/__main__.py)
 ```python
 from serper import SerperClient
 
